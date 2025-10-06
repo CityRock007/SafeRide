@@ -1,0 +1,13 @@
+Drivers / Riders / Admins → SafeRide Mobile & Web App (Flutter)
+│
+│──> REST API (Node.js + Express)
+│
+│──> Database (MongoDB Atlas / ReinHost Cloud)
+│
+│──> Real-time Location (Socket.IO / Firebase Realtime DB)
+│
+│──> Maps & Routing (Google Maps API)
+│
+│──> Payments (Paystack / Flutterwave)
+│
+└──> Hosting (ReinHost VPS / AWS Elastic Beanstalk)
